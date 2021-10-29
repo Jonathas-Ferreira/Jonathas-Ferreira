@@ -8,8 +8,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Jonathas-Ferreira&show_icons=true&theme=vision-friendly-dark" alt="Jonathas-Ferreira's stats"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-Ferreira&layout=compact&theme=vision-friendly-dark" alt="Jonathas-Ferreira's most languages"/>
+<img height="320em" src="https://github-readme-stats.vercel.app/api?username=Jonathas-Ferreira&show_icons=true&theme=vision-friendly-dark" alt="Jonathas-Ferreira's stats"/>
+<img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-Ferreira&layout=compact&theme=vision-friendly-dark" alt="Jonathas-Ferreira's most languages"/>
 </p>
 
 
