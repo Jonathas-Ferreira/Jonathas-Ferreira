@@ -32,7 +32,7 @@
 
 <a href="https://www.linkedin.com/in/jonathas-ferreira-3b2117160/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" height="110" /></a>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" height="110" align ="center">](mailto:jtsbarrosferreira@gmail.com)
-<a href="https://discord.gg/YzTPhVAt" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" height="110" /></a>
+<a href="https://discord.gg/Sb2uzPjY" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" height="110" /></a>
 
 <br>
 <br>
