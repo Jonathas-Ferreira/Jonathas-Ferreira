@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋🏻, bem vindo(a)! </h1>
 
-  Sou um Desenvolvedor Java Jr., no momento estou cursando Engenharia de Computação [CEUMA](https://www.extranet.ceuma.br/hotsite/), tenho conhecimento em Java ☕, C, Python, e em processo de aprendizagem sobre MySQL 🐬 SpringBoot 🍃 entre outros. 
+  Sou um Desenvolvedor Java Jr., formado em Engenharia da Computação, tenho conhecimento em Java ☕, C, Python, e em processo de aprendizagem sobre MySQL 🐬 SpringBoot 🍃 entre outros. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jonathas-Ferreira&color=green" alt="Profile views" /> </p>
 <br>
